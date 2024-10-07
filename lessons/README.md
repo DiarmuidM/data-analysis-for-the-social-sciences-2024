@@ -11,26 +11,28 @@ Please click the *Open in Colab* link; you may need to login / register for a fr
 
 ### Week 5
 
-Doing Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-5-doing-data-analysis.ipynb)
+Introduction to Data and R [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-5-intro-to-data.ipynb)
+
+Doing Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-5-doing-data-analysis.ipynb)
 
 ### Week 8
 
-[Getting Started](https://github.com/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-8-getting-started.ipynb)
+[Getting Started](https://github.com/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-8-getting-started.ipynb)
 
 ### Week 9
 
-Univariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-9-univariate-analysis.ipynb)
+Univariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-9-univariate-analysis.ipynb)
 
 ### Week 10
 
-Bivariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-10-bivariate-analysis.ipynb)
+Bivariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-10-bivariate-analysis.ipynb)
 
 ### Week 11
 
-Multivariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-11-multivariate-analysis.ipynb)
+Multivariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-11-multivariate-analysis.ipynb)
 
-Inferential Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-11-inferential-analysis.ipynb)
+Inferential Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-11-inferential-analysis.ipynb)
 
 ### Week 12
 
-Publication Ready Graphs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2023/blob/main/lessons/dass-week-12-publication-ready-graphs.ipynb)-->
+Publication Ready Graphs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-12-publication-ready-graphs.ipynb)-->
