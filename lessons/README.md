@@ -23,7 +23,6 @@ Doing Data Analysis [![Open In Colab](https://colab.research.google.com/assets/c
 
 Univariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-9-univariate-analysis.ipynb)
 
-"""
 ### Week 10
 
 Bivariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-10-bivariate-analysis.ipynb)
@@ -37,4 +36,3 @@ Inferential Analysis [![Open In Colab](https://colab.research.google.com/assets/
 ### Week 12
 
 Publication Ready Graphs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2024/blob/main/lessons/dass-week-12-publication-ready-graphs.ipynb)
-"""
